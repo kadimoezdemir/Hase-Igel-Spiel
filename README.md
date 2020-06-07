@@ -23,4 +23,5 @@ Ereignisse:
 Zum Schluss wird der Gewinner ausgegeben.
 Side Note: Der Hase gewinnt nicht immer:)
 
-UML:
+## UML
+![alt text](https://github.com/kadimoezdemir/Hase-Igel-Spiel/blob/master/UML%20Dia.png)
