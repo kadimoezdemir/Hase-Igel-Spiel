@@ -1,4 +1,4 @@
-# Hase-Igel-Spiel
+# Hase Igel Spiel
 
 ## Beschreibung
 Ein Wettrennen zwischen Hasen und Igel (Übung von SS19)
